@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/ashishjangra27/face-generation-with-gan/
+https://github.com/AshishJangra27/Face-Generator-with-GAN
